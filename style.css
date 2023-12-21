@@ -19,3 +19,6 @@ ul {
   flex-direction: column;
   align-items: center;
 }
+.myimage {
+  height: 300px;
+}
